@@ -9,7 +9,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
--지금은 언리얼 하고 있지만 유니티를 주로 다룰 겁니다.
+ 지금은 언리얼 하고 있지만 유니티를 주로 다룰 겁니다.
 
 ## 🏗️ Current Project: Game Developing! 🕹️
   "함께 게임을 만들어갈 열정 넘치는 동료를 상시 모집합니다!"
