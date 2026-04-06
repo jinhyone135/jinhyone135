@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jinhyone135/jinhyone135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# 👋 양진현 입니다! 
-
 ## 🎓 About Me
 - 🏫 **영남대학교(Yeungnam Univ.)** 컴퓨터공학전공 학부생
 - 🎮 **게임 제작** 을 해보고 있습니다.
